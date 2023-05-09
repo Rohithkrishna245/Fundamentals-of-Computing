@@ -1,1 +1,1 @@
-# SoftawareEngineering
+# Fundamentals of compputing
